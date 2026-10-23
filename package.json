@@ -1,0 +1,22 @@
+{
+  "name": "playwright-typescript-learning",
+  "version": "1.0.0",
+  "description": "playwright-typescript-learning Description",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbnrrnagar-ctrl/playwright-typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbnrrnagar-ctrl/playwright-typescript-learning/issues"
+  },
+  "homepage": "https://github.com/cbnrrnagar-ctrl/playwright-typescript-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5"
+  }
+}
